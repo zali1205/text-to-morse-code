@@ -1,0 +1,2 @@
+This is an example of some text I want to encode.
+But, will it work correctly?
